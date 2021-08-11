@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NotificationSample</string>
+    <string name="sakuramiko">櫻巫女</string>
+    <string name="shirakamifubuki">白上吹雪</string>
+    <string name="yukihanalamy">雪花菈米</string>
+    <string name="hoshimachisuisei">星街彗星</string>
+    <string name="hololive">hololive</string>
+    <string name="nijisanji">彩虹社</string>
+    <string name="tsukinomito">月之美兔</string>
+    <string name="sistercleaire">克蕾雅</string>
+    <string name="inuitoko">戌亥床</string>
+    <string name="suzuharalulu">鈴原露露</string>
+</resources>
